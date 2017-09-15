@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/bin/bash
 VERS=0.001.170907;  #usually begin with 0.001.
 LICENSE='The MIT License (MIT)
 Copyright (c) 2017 JingQian
